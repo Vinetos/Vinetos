@@ -1,10 +1,7 @@
-### Hi there 👋
-
+# Hi there 👋
 <!--
 **Vinetos/Vinetos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-## Hi ! 
 
 <img height="48" src="https://www.vinetos.fr/img/logo.png" alt="profile picture">
 
