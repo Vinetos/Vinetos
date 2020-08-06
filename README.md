@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Vinetos/Vinetos/master/Vinetos%20Banner.png">
+<p align="center">
+  <div style="text-align:center"><img width="500px" src="https://raw.githubusercontent.com/Vinetos/Vinetos/master/Vinetos%20Banner.png"></div>
+</p>
 <!--
 **Vinetos/Vinetos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
