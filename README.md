@@ -1,14 +1,31 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vinetos/Vinetos/master/Vinetos%20Banner.png">
-</p>
 <!--
 **Vinetos/Vinetos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<a align="center" href="https://vinetos.fr">
+  <img src="https://raw.githubusercontent.com/Vinetos/Vinetos/master/Vinetos%20Banner.png">
+</a>
 
-:wave: I am Valentin, a French CS student at [EPITA](https://www.epita.fr/en/) 👨‍🎓. I started my programming trip by creation minecraft plugin (bukkit and bungeecord) in Java. :smile:
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hey, nice to see you.
 
-🛠 TODO.
+Welcome to my page! :wave:  
+I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> **Lyon, France** studying Computer Sciences at [**EPITA**](https://www.epita.fr/en/) 👨‍🎓.
 
-🌐 My website is [vinetos.fr](https://vinetos.fr)
+### Things I code with
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
-💬 You can send me a message on Telegram/Twitter/Whatever `@vinetos`
+### Where to find me
+<p>
+  <a href="https://github.com/Vinetos" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://twitter.com/Vinetos" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> 
+</p>
