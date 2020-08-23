@@ -2,7 +2,7 @@
 **Vinetos/Vinetos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <a align="center" href="https://vinetos.fr">
-  <img src="https://raw.githubusercontent.com/Vinetos/Vinetos/master/Vinetos%20Banner.png">
+  <img src="https://raw.githubusercontent.com/Vinetos/Vinetos/master/Vinetos%20Banner.png" />
 </a>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hey, nice to see you.
@@ -29,3 +29,6 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a> 
 </p>
+
+
+![Vinetos's github stats](https://github-readme-stats.vercel.app/api?username=Vinetos)
