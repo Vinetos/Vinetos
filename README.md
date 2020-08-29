@@ -12,10 +12,12 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 
 ### Things I code with
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-E10098?style=flat-square&logo=c#&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Python 3" src="https://img.shields.io/badge/-Python%203-F7B93E?style=flat-square&logo=python&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
