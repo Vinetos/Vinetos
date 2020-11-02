@@ -12,6 +12,7 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 
 ### Things I code with
 <p>
+  <img alt="NixOS" src="https://img.shields.io/badge/-NixOS-00cec9?style=flat-square&logo=nixos&logoColor=white" />
   <img alt="Arch" src="https://img.shields.io/badge/-Arch-2088FF?style=flat-square&logo=arch-linux&logoColor=white" />
   <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-4834d4?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-be2edd?style=flat-square&logo=c&logoColor=white" />
