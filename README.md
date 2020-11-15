@@ -42,4 +42,8 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#17](https://github.com/C-Text/CText/pull/17) in [C-Text/CText](https://github.com/C-Text/CText)
+2. Soon
+3. Soon
+4. Soon
+5. Soon
 <!--END_SECTION:activity-->
