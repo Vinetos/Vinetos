@@ -38,7 +38,7 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 
 ![Vinetos's github stats](https://github-readme-stats.vercel.app/api?username=Vinetos)
 
-### :zap: Recent ActivityRecent activity
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
