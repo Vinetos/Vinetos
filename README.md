@@ -41,5 +41,5 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/tableaunoir/tableaunoir/issues/48) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
+1. 🎉 Merged PR [#17](https://github.com/C-Text/CText/pull/17) in [C-Text/CText](https://github.com/C-Text/CText)
 <!--END_SECTION:activity-->
