@@ -41,9 +41,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/C-Text/CText/pull/17) in [C-Text/CText](https://github.com/C-Text/CText)
-2. 💪 Opened PR [#17](https://github.com/C-Text/CText/pull/17) in [C-Text/CText](https://github.com/C-Text/CText)
-3. 🗣 Commented on [#48](https://github.com/tableaunoir/tableaunoir/issues/48) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
+1. 🗣 Commented on [#12](https://github.com/tableaunoir/tableaunoir/issues/12) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
+2. 🎉 Merged PR [#17](https://github.com/C-Text/CText/pull/17) in [C-Text/CText](https://github.com/C-Text/CText)
+3. 💪 Opened PR [#17](https://github.com/C-Text/CText/pull/17) in [C-Text/CText](https://github.com/C-Text/CText)
 4. 🗣 Commented on [#48](https://github.com/tableaunoir/tableaunoir/issues/48) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
-5. 🗣 Commented on [#47](https://github.com/tableaunoir/tableaunoir/issues/47) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
+5. 🗣 Commented on [#48](https://github.com/tableaunoir/tableaunoir/issues/48) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
 <!--END_SECTION:activity-->
