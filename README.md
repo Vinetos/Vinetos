@@ -41,9 +41,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/tableaunoir/tableaunoir/issues/56) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
-2. 🗣 Commented on [#39](https://github.com/tableaunoir/tableaunoir/issues/39) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
-3. 🗣 Commented on [#56](https://github.com/tableaunoir/tableaunoir/issues/56) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
+1. ❗️ Opened issue [#8](https://github.com/aureleoules/epitaf/issues/8) in [aureleoules/epitaf](https://github.com/aureleoules/epitaf)
+2. 🗣 Commented on [#56](https://github.com/tableaunoir/tableaunoir/issues/56) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
+3. 🗣 Commented on [#39](https://github.com/tableaunoir/tableaunoir/issues/39) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
 4. 🗣 Commented on [#56](https://github.com/tableaunoir/tableaunoir/issues/56) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
-5. 🎉 Merged PR [#37](https://github.com/SAFExTY/Website/pull/37) in [SAFExTY/Website](https://github.com/SAFExTY/Website)
+5. 🗣 Commented on [#56](https://github.com/tableaunoir/tableaunoir/issues/56) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
 <!--END_SECTION:activity-->
