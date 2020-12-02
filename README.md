@@ -41,9 +41,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/MilkBowl/VaultAPI/issues/52) in [MilkBowl/VaultAPI](https://github.com/MilkBowl/VaultAPI)
-2. ❗️ Opened issue [#8](https://github.com/aureleoules/epitaf/issues/8) in [aureleoules/epitaf](https://github.com/aureleoules/epitaf)
-3. 🗣 Commented on [#56](https://github.com/tableaunoir/tableaunoir/issues/56) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
-4. 🗣 Commented on [#39](https://github.com/tableaunoir/tableaunoir/issues/39) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
-5. 🗣 Commented on [#56](https://github.com/tableaunoir/tableaunoir/issues/56) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
+1. 🗣 Commented on [#39](https://github.com/tableaunoir/tableaunoir/issues/39) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
+2. 🗣 Commented on [#52](https://github.com/MilkBowl/VaultAPI/issues/52) in [MilkBowl/VaultAPI](https://github.com/MilkBowl/VaultAPI)
+3. ❗️ Opened issue [#8](https://github.com/aureleoules/epitaf/issues/8) in [aureleoules/epitaf](https://github.com/aureleoules/epitaf)
+4. 🗣 Commented on [#56](https://github.com/tableaunoir/tableaunoir/issues/56) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
+5. 🗣 Commented on [#39](https://github.com/tableaunoir/tableaunoir/issues/39) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
 <!--END_SECTION:activity-->
