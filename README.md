@@ -41,9 +41,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/C-Text/CText/pull/18) in [C-Text/CText](https://github.com/C-Text/CText)
-2. 💪 Opened PR [#18](https://github.com/C-Text/CText/pull/18) in [C-Text/CText](https://github.com/C-Text/CText)
-3. 🗣 Commented on [#52](https://github.com/MilkBowl/VaultAPI/issues/52) in [MilkBowl/VaultAPI](https://github.com/MilkBowl/VaultAPI)
-4. 🗣 Commented on [#39](https://github.com/tableaunoir/tableaunoir/issues/39) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
-5. 🗣 Commented on [#52](https://github.com/MilkBowl/VaultAPI/issues/52) in [MilkBowl/VaultAPI](https://github.com/MilkBowl/VaultAPI)
+1. ❌ Closed PR [#10](https://github.com/C-Text/CText/pull/10) in [C-Text/CText](https://github.com/C-Text/CText)
+2. 🎉 Merged PR [#18](https://github.com/C-Text/CText/pull/18) in [C-Text/CText](https://github.com/C-Text/CText)
+3. 💪 Opened PR [#18](https://github.com/C-Text/CText/pull/18) in [C-Text/CText](https://github.com/C-Text/CText)
+4. 🗣 Commented on [#52](https://github.com/MilkBowl/VaultAPI/issues/52) in [MilkBowl/VaultAPI](https://github.com/MilkBowl/VaultAPI)
+5. 🗣 Commented on [#39](https://github.com/tableaunoir/tableaunoir/issues/39) in [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir)
 <!--END_SECTION:activity-->
