@@ -41,9 +41,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/islands-wars/islands/issues/1) in [islands-wars/islands](https://github.com/islands-wars/islands)
-2. ❌ Closed PR [#10](https://github.com/C-Text/CText/pull/10) in [C-Text/CText](https://github.com/C-Text/CText)
-3. 🎉 Merged PR [#18](https://github.com/C-Text/CText/pull/18) in [C-Text/CText](https://github.com/C-Text/CText)
-4. 💪 Opened PR [#18](https://github.com/C-Text/CText/pull/18) in [C-Text/CText](https://github.com/C-Text/CText)
-5. 🗣 Commented on [#52](https://github.com/MilkBowl/VaultAPI/issues/52) in [MilkBowl/VaultAPI](https://github.com/MilkBowl/VaultAPI)
+1. 🗣 Commented on [#2](https://github.com/islands-wars/islands/issues/2) in [islands-wars/islands](https://github.com/islands-wars/islands)
+2. ❗️ Closed issue [#1](https://github.com/islands-wars/islands/issues/1) in [islands-wars/islands](https://github.com/islands-wars/islands)
+3. ❌ Closed PR [#10](https://github.com/C-Text/CText/pull/10) in [C-Text/CText](https://github.com/C-Text/CText)
+4. 🎉 Merged PR [#18](https://github.com/C-Text/CText/pull/18) in [C-Text/CText](https://github.com/C-Text/CText)
+5. 💪 Opened PR [#18](https://github.com/C-Text/CText/pull/18) in [C-Text/CText](https://github.com/C-Text/CText)
 <!--END_SECTION:activity-->
