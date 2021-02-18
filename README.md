@@ -41,9 +41,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#113563](https://github.com/NixOS/nixpkgs/pull/113563) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#113563](https://github.com/NixOS/nixpkgs/issues/113563) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❌ Closed PR [#113560](https://github.com/NixOS/nixpkgs/pull/113560) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#113560](https://github.com/NixOS/nixpkgs/issues/113560) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 💪 Opened PR [#113563](https://github.com/NixOS/nixpkgs/pull/113563) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🎉 Merged PR [#31](https://github.com/Vinetos/Vinetos.fr/pull/31) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
+2. 🎉 Merged PR [#30](https://github.com/Vinetos/Vinetos.fr/pull/30) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
+3. 💪 Opened PR [#113640](https://github.com/NixOS/nixpkgs/pull/113640) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ❌ Closed PR [#113563](https://github.com/NixOS/nixpkgs/pull/113563) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#113563](https://github.com/NixOS/nixpkgs/issues/113563) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
