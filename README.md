@@ -41,9 +41,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/aureleoules/epitaf/issues/14) in [aureleoules/epitaf](https://github.com/aureleoules/epitaf)
-2. 🗣 Commented on [#170](https://github.com/seeseemelk/MockBukkit/issues/170) in [seeseemelk/MockBukkit](https://github.com/seeseemelk/MockBukkit)
-3. 🎉 Merged PR [#31](https://github.com/Vinetos/Vinetos.fr/pull/31) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
-4. 🎉 Merged PR [#30](https://github.com/Vinetos/Vinetos.fr/pull/30) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
-5. 💪 Opened PR [#113640](https://github.com/NixOS/nixpkgs/pull/113640) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. ❗️ Opened issue [#1](https://github.com/Pickle-Burp/Hey-Morty/issues/1) in [Pickle-Burp/Hey-Morty](https://github.com/Pickle-Burp/Hey-Morty)
+2. ❗️ Opened issue [#14](https://github.com/aureleoules/epitaf/issues/14) in [aureleoules/epitaf](https://github.com/aureleoules/epitaf)
+3. 🗣 Commented on [#170](https://github.com/seeseemelk/MockBukkit/issues/170) in [seeseemelk/MockBukkit](https://github.com/seeseemelk/MockBukkit)
+4. 🎉 Merged PR [#31](https://github.com/Vinetos/Vinetos.fr/pull/31) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
+5. 🎉 Merged PR [#30](https://github.com/Vinetos/Vinetos.fr/pull/30) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
 <!--END_SECTION:activity-->
