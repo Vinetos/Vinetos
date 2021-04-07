@@ -22,6 +22,7 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
   <img alt="Python 3" src="https://img.shields.io/badge/-Python%203-F7B93E?style=flat-square&logo=python&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-f7f1e3?style=flat-square&logo=rust&logoColor=black" />
   <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
