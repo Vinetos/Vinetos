@@ -42,9 +42,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Pickle-Burp/HeyMorty/pull/1) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
-2. 💪 Opened PR [#1](https://github.com/Pickle-Burp/HeyMorty/pull/1) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
-3. ❗️ Opened issue [#1](https://github.com/Pickle-Burp/Hey-Morty/issues/1) in [Pickle-Burp/Hey-Morty](https://github.com/Pickle-Burp/Hey-Morty)
-4. ❗️ Opened issue [#14](https://github.com/aureleoules/epitaf/issues/14) in [aureleoules/epitaf](https://github.com/aureleoules/epitaf)
-5. 🗣 Commented on [#170](https://github.com/seeseemelk/MockBukkit/issues/170) in [seeseemelk/MockBukkit](https://github.com/seeseemelk/MockBukkit)
+1. 🗣 Commented on [#3](https://github.com/Pickle-Burp/HeyMorty/issues/3) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+2. 💪 Opened PR [#2](https://github.com/Pickle-Burp/HeyMorty/pull/2) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+3. 🎉 Merged PR [#1](https://github.com/Pickle-Burp/HeyMorty/pull/1) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+4. 💪 Opened PR [#1](https://github.com/Pickle-Burp/HeyMorty/pull/1) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+5. ❗️ Opened issue [#1](https://github.com/Pickle-Burp/Hey-Morty/issues/1) in [Pickle-Burp/Hey-Morty](https://github.com/Pickle-Burp/Hey-Morty)
 <!--END_SECTION:activity-->
