@@ -42,9 +42,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/SSHCity-Game/Website/pull/34) in [SSHCity-Game/Website](https://github.com/SSHCity-Game/Website)
-2. 🎉 Merged PR [#36](https://github.com/SSHCity-Game/Website/pull/36) in [SSHCity-Game/Website](https://github.com/SSHCity-Game/Website)
-3. 🎉 Merged PR [#4](https://github.com/Pickle-Burp/HeyMorty/pull/4) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
-4. 💪 Opened PR [#4](https://github.com/Pickle-Burp/HeyMorty/pull/4) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
-5. 🎉 Merged PR [#3](https://github.com/Pickle-Burp/HeyMorty/pull/3) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+1. 🎉 Merged PR [#6](https://github.com/Pickle-Burp/HeyMorty/pull/6) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+2. 💪 Opened PR [#6](https://github.com/Pickle-Burp/HeyMorty/pull/6) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+3. 🎉 Merged PR [#5](https://github.com/Pickle-Burp/HeyMorty/pull/5) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+4. 💪 Opened PR [#5](https://github.com/Pickle-Burp/HeyMorty/pull/5) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+5. 🎉 Merged PR [#34](https://github.com/SSHCity-Game/Website/pull/34) in [SSHCity-Game/Website](https://github.com/SSHCity-Game/Website)
 <!--END_SECTION:activity-->
