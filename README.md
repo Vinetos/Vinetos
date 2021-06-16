@@ -42,9 +42,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Pickle-Burp/HeyMorty/pull/13) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
-2. 🗣 Commented on [#13](https://github.com/Pickle-Burp/HeyMorty/issues/13) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
-3. 🎉 Merged PR [#3](https://github.com/Vinetos/MockBungee/pull/3) in [Vinetos/MockBungee](https://github.com/Vinetos/MockBungee)
-4. 🎉 Merged PR [#2](https://github.com/Vinetos/MockBungee/pull/2) in [Vinetos/MockBungee](https://github.com/Vinetos/MockBungee)
-5. 💪 Opened PR [#2](https://github.com/Vinetos/MockBungee/pull/2) in [Vinetos/MockBungee](https://github.com/Vinetos/MockBungee)
+1. 💪 Opened PR [#14](https://github.com/Pickle-Burp/HeyMorty/pull/14) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+2. 🎉 Merged PR [#13](https://github.com/Pickle-Burp/HeyMorty/pull/13) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+3. 🗣 Commented on [#13](https://github.com/Pickle-Burp/HeyMorty/issues/13) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+4. 🎉 Merged PR [#3](https://github.com/Vinetos/MockBungee/pull/3) in [Vinetos/MockBungee](https://github.com/Vinetos/MockBungee)
+5. 🎉 Merged PR [#2](https://github.com/Vinetos/MockBungee/pull/2) in [Vinetos/MockBungee](https://github.com/Vinetos/MockBungee)
 <!--END_SECTION:activity-->
