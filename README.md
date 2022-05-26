@@ -5,10 +5,11 @@
   <img src="https://raw.githubusercontent.com/Vinetos/Vinetos/master/Vinetos%20Banner.png" />
 </a>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hey, nice to see you.
+# <img align="left" src="https://cdn.discordapp.com/emojis/938153240527265812.webp" width="10%" /> Hey, nice to see you.
 
 Welcome to my page! :wave:  
-I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> **Lyon, France** studying Computer Sciences at [**EPITA**](https://www.epita.fr/en/) 👨‍🎓.
+
+I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **Lyon, France** studying Computer Sciences at [**EPITA**](https://www.epita.fr/en/) 👨‍🎓.
 
 ### Things I code with
 <p>
@@ -20,7 +21,7 @@ I'm Valentin, an Enthusiastic developer from <img src="https://image.flaticon.co
   <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Python 3" src="https://img.shields.io/badge/-Python%203-F7B93E?style=flat-square&logo=python&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-f7f1e3?style=flat-square&logo=rust&logoColor=black" />
   <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
