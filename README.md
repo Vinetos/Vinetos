@@ -43,9 +43,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Pickle-Burp/HeyMorty/pull/15) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
-2. 💪 Opened PR [#15](https://github.com/Pickle-Burp/HeyMorty/pull/15) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
-3. 🎉 Merged PR [#14](https://github.com/Pickle-Burp/HeyMorty/pull/14) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
-4. 💪 Opened PR [#14](https://github.com/Pickle-Burp/HeyMorty/pull/14) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
-5. 🎉 Merged PR [#13](https://github.com/Pickle-Burp/HeyMorty/pull/13) in [Pickle-Burp/HeyMorty](https://github.com/Pickle-Burp/HeyMorty)
+1. 🗣 Commented on [#1](https://github.com/Vinetos/Vinetos/issues/1) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
+2. ❗️ Closed issue [#1](https://github.com/Vinetos/Vinetos/issues/1) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
+3. ❗️ Opened issue [#4](https://github.com/epibug/epibug/issues/4) in [epibug/epibug](https://github.com/epibug/epibug)
+4. ❗️ Opened issue [#3](https://github.com/epibug/epibug/issues/3) in [epibug/epibug](https://github.com/epibug/epibug)
+5. ❌ Closed PR [#2](https://github.com/Vinetos/nix-vinetos/pull/2) in [Vinetos/nix-vinetos](https://github.com/Vinetos/nix-vinetos)
 <!--END_SECTION:activity-->
