@@ -43,9 +43,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#130](https://github.com/Vinetos/Vinetos.fr/pull/130) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
-2. ❗️ Closed issue [#1](https://github.com/Vinetos/nix-vinetos/issues/1) in [Vinetos/nix-vinetos](https://github.com/Vinetos/nix-vinetos)
-3. 🗣 Commented on [#1](https://github.com/Vinetos/Vinetos/issues/1) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
-4. ❗️ Closed issue [#1](https://github.com/Vinetos/Vinetos/issues/1) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
-5. ❗️ Opened issue [#4](https://github.com/epibug/epibug/issues/4) in [epibug/epibug](https://github.com/epibug/epibug)
+1. 🎉 Merged PR [#1](https://github.com/Vinetos/java-portable/pull/1) in [Vinetos/java-portable](https://github.com/Vinetos/java-portable)
+2. 🎉 Merged PR [#130](https://github.com/Vinetos/Vinetos.fr/pull/130) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
+3. ❗️ Closed issue [#1](https://github.com/Vinetos/nix-vinetos/issues/1) in [Vinetos/nix-vinetos](https://github.com/Vinetos/nix-vinetos)
+4. 🗣 Commented on [#1](https://github.com/Vinetos/Vinetos/issues/1) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
+5. ❗️ Closed issue [#1](https://github.com/Vinetos/Vinetos/issues/1) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
 <!--END_SECTION:activity-->
