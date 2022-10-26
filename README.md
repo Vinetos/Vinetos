@@ -47,9 +47,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Vinetos/java-portable/pull/2) in [Vinetos/java-portable](https://github.com/Vinetos/java-portable)
-2. 🎉 Merged PR [#1](https://github.com/Vinetos/java-portable/pull/1) in [Vinetos/java-portable](https://github.com/Vinetos/java-portable)
-3. 🎉 Merged PR [#130](https://github.com/Vinetos/Vinetos.fr/pull/130) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
-4. ❗️ Closed issue [#1](https://github.com/Vinetos/nix-vinetos/issues/1) in [Vinetos/nix-vinetos](https://github.com/Vinetos/nix-vinetos)
-5. 🗣 Commented on [#1](https://github.com/Vinetos/Vinetos/issues/1) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
+1. 🎉 Merged PR [#3](https://github.com/Vinetos/Vinetos/pull/3) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
+2. 💪 Opened PR [#3](https://github.com/Vinetos/Vinetos/pull/3) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
+3. 🎉 Merged PR [#3](https://github.com/Vinetos/nix-vinetos/pull/3) in [Vinetos/nix-vinetos](https://github.com/Vinetos/nix-vinetos)
+4. 💪 Opened PR [#3](https://github.com/Vinetos/nix-vinetos/pull/3) in [Vinetos/nix-vinetos](https://github.com/Vinetos/nix-vinetos)
+5. 🎉 Merged PR [#2](https://github.com/Vinetos/java-portable/pull/2) in [Vinetos/java-portable](https://github.com/Vinetos/java-portable)
 <!--END_SECTION:activity-->
