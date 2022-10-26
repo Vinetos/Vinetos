@@ -40,6 +40,10 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 
 ![Vinetos's github stats](https://github-readme-stats.vercel.app/api?username=Vinetos)
 
+### WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
