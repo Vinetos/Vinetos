@@ -27,20 +27,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
   <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
-### Where to find me
-<p>
-  <a href="https://github.com/Vinetos" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a> 
-  <a href="https://twitter.com/Vinetos" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> 
-</p>
+![Vinetos's github stats](https://github-readme-stats.vercel.app/api?username=Vinetos&show_icons=true) 
 
-
-![Vinetos's github stats](https://github-readme-stats.vercel.app/api?username=Vinetos)
-
-### WakaTime
+### :bar_chart: Where I spend dev my time  
 <!--START_SECTION:waka-->
 
 ```text
@@ -63,3 +52,13 @@ XML                1 min           ░░░░░░░░░░░░░░░
 4. 💪 Opened PR [#3](https://github.com/Vinetos/Vinetos/pull/3) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
 5. 🎉 Merged PR [#3](https://github.com/Vinetos/nix-vinetos/pull/3) in [Vinetos/nix-vinetos](https://github.com/Vinetos/nix-vinetos)
 <!--END_SECTION:activity-->
+
+### Where to find me
+<p>
+  <a href="https://github.com/Vinetos" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://twitter.com/Vinetos" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> 
+</p>
