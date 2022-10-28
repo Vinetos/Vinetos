@@ -44,7 +44,12 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 <!--START_SECTION:waka-->
 
 ```text
-Java   0 secs          █████████████████████████   100.00 %
+Java               4 hrs 58 mins   ██████████████████████▓░░   90.58 %
+Nix file           17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Nix                5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+YAML               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Shell Script       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+XML                1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
