@@ -29,7 +29,7 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 
 ![Vinetos's github stats](https://github-readme-stats.vercel.app/api?username=Vinetos&show_icons=true) 
 
-### :bar_chart: Where I spend dev my time  
+### :bar_chart: Where I spend my dev time  
 <!--START_SECTION:waka-->
 
 ```text
