@@ -46,11 +46,11 @@ Text               9 mins          ▒░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Vinetos/Vinetos/pull/4) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
-2. 🎉 Merged PR [#1](https://github.com/Vinetos/nixos/pull/1) in [Vinetos/nixos](https://github.com/Vinetos/nixos)
-3. 💪 Opened PR [#1](https://github.com/Vinetos/nixos/pull/1) in [Vinetos/nixos](https://github.com/Vinetos/nixos)
-4. 🎉 Merged PR [#4](https://github.com/Vinetos/nix-vinetos/pull/4) in [Vinetos/nix-vinetos](https://github.com/Vinetos/nix-vinetos)
-5. 💪 Opened PR [#4](https://github.com/Vinetos/nix-vinetos/pull/4) in [Vinetos/nix-vinetos](https://github.com/Vinetos/nix-vinetos)
+1. 🎉 Merged PR [#4](https://github.com/Vinetos/Vinetos/pull/4) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
+2. 💪 Opened PR [#4](https://github.com/Vinetos/Vinetos/pull/4) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
+3. 🎉 Merged PR [#1](https://github.com/Vinetos/nixos/pull/1) in [Vinetos/nixos](https://github.com/Vinetos/nixos)
+4. 💪 Opened PR [#1](https://github.com/Vinetos/nixos/pull/1) in [Vinetos/nixos](https://github.com/Vinetos/nixos)
+5. 🎉 Merged PR [#4](https://github.com/Vinetos/nix-vinetos/pull/4) in [Vinetos/nix-vinetos](https://github.com/Vinetos/nix-vinetos)
 <!--END_SECTION:activity-->
 
 ### Where to find me
