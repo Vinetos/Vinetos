@@ -33,12 +33,12 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 <!--START_SECTION:waka-->
 
 ```text
-Java               6 hrs 43 mins   █████████████████▓░░░░░░░   70.43 %
-YAML               1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-XML                19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Nix file           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-TypeScript         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-SQL                12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Java               12 hrs 58 mins  ██████████████████▒░░░░░░   73.03 %
+YAML               1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+Nix file           51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Nix                38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Properties         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+XML                23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
