@@ -46,11 +46,11 @@ Properties         1 hr 35 mins    ▒░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/vaadin-component-factory/enhanced-rich-text-editor/pull/27) in [vaadin-component-factory/enhanced-rich-text-editor](https://github.com/vaadin-component-factory/enhanced-rich-text-editor)
-2. ❗️ Opened issue [#26](https://github.com/vaadin-component-factory/enhanced-rich-text-editor/issues/26) in [vaadin-component-factory/enhanced-rich-text-editor](https://github.com/vaadin-component-factory/enhanced-rich-text-editor)
-3. 🗣 Commented on [#4068](https://github.com/vaadin/flow/issues/4068) in [vaadin/flow](https://github.com/vaadin/flow)
-4. 🗣 Commented on [#204124](https://github.com/NixOS/nixpkgs/issues/204124) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. ❌ Closed PR [#203471](https://github.com/NixOS/nixpkgs/pull/203471) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#208510](https://github.com/NixOS/nixpkgs/issues/208510) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#27](https://github.com/vaadin-component-factory/enhanced-rich-text-editor/pull/27) in [vaadin-component-factory/enhanced-rich-text-editor](https://github.com/vaadin-component-factory/enhanced-rich-text-editor)
+3. ❗️ Opened issue [#26](https://github.com/vaadin-component-factory/enhanced-rich-text-editor/issues/26) in [vaadin-component-factory/enhanced-rich-text-editor](https://github.com/vaadin-component-factory/enhanced-rich-text-editor)
+4. 🗣 Commented on [#4068](https://github.com/vaadin/flow/issues/4068) in [vaadin/flow](https://github.com/vaadin/flow)
+5. 🗣 Commented on [#204124](https://github.com/NixOS/nixpkgs/issues/204124) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ### Where to find me
