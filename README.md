@@ -43,7 +43,7 @@ XML                   8 hrs 28 mins   ▓░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### :zap: Recent Activity
+### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#208510](https://github.com/NixOS/nixpkgs/issues/208510) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
