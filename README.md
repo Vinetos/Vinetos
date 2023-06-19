@@ -46,10 +46,10 @@ SQL                    9 hrs 49 mins   ▓░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#237915](https://github.com/NixOS/nixpkgs/issues/237915) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#237915](https://github.com/NixOS/nixpkgs/pull/237915) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#201518](https://github.com/NixOS/nixpkgs/issues/201518) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#8567](https://github.com/simple-icons/simple-icons/issues/8567) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#204124](https://github.com/NixOS/nixpkgs/issues/204124) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#237915](https://github.com/NixOS/nixpkgs/issues/237915) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 💪 Opened PR [#237915](https://github.com/NixOS/nixpkgs/pull/237915) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#201518](https://github.com/NixOS/nixpkgs/issues/201518) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#8567](https://github.com/simple-icons/simple-icons/issues/8567) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ### Where to find me
