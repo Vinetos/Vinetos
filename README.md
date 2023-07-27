@@ -45,11 +45,11 @@ Kotlin                 16 hrs 22 mins  █░░░░░░░░░░░░�
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#237915](https://github.com/NixOS/nixpkgs/pull/237915#issuecomment-1646517574) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#237915](https://github.com/NixOS/nixpkgs/pull/237915#issuecomment-1645483907) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#237915](https://github.com/NixOS/nixpkgs/pull/237915#issuecomment-1643996845) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#243533](https://github.com/NixOS/nixpkgs/pull/243533#issuecomment-1640592893) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#237915](https://github.com/NixOS/nixpkgs/pull/237915#issuecomment-1620635724) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#35028](https://github.com/quarkusio/quarkus/issues/35028#issuecomment-1651986830) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+2. ❗ Opened issue [#35028](https://github.com/quarkusio/quarkus/issues/35028) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+3. 🗣 Commented on [#237915](https://github.com/NixOS/nixpkgs/pull/237915#issuecomment-1646517574) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#237915](https://github.com/NixOS/nixpkgs/pull/237915#issuecomment-1645483907) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#237915](https://github.com/NixOS/nixpkgs/pull/237915#issuecomment-1643996845) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ### Where to find me
