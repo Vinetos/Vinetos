@@ -45,11 +45,11 @@ Kotlin                 16 hrs 22 mins  █░░░░░░░░░░░░�
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#235](https://github.com/nix-community/NixOS-WSL/issues/235#issuecomment-1657798464) in [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL)
-2. 🗣 Commented on [#235](https://github.com/nix-community/NixOS-WSL/issues/235#issuecomment-1657116245) in [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL)
-3. 🗣 Commented on [#35028](https://github.com/quarkusio/quarkus/issues/35028#issuecomment-1651986830) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-4. ❗ Opened issue [#35028](https://github.com/quarkusio/quarkus/issues/35028) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-5. 🗣 Commented on [#237915](https://github.com/NixOS/nixpkgs/pull/237915#issuecomment-1646517574) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#249106](https://github.com/NixOS/nixpkgs/pull/249106#issuecomment-1680121342) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#235](https://github.com/nix-community/NixOS-WSL/issues/235#issuecomment-1657798464) in [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL)
+3. 🗣 Commented on [#235](https://github.com/nix-community/NixOS-WSL/issues/235#issuecomment-1657116245) in [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL)
+4. 🗣 Commented on [#35028](https://github.com/quarkusio/quarkus/issues/35028#issuecomment-1651986830) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+5. ❗ Opened issue [#35028](https://github.com/quarkusio/quarkus/issues/35028) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 <!--END_SECTION:activity-->
 
 ### Where to find me
