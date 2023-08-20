@@ -45,11 +45,11 @@ Kotlin                 16 hrs 22 mins  █░░░░░░░░░░░░�
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/hyprwm/hyprpaper/issues/88#issuecomment-1684435858) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
-2. 🔒 Closed issue [#89](https://github.com/hyprwm/hyprpaper/issues/89) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
-3. 🗣 Commented on [#89](https://github.com/hyprwm/hyprpaper/issues/89#issuecomment-1684160183) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
-4. ❗ Opened issue [#3017](https://github.com/hyprwm/Hyprland/issues/3017) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-5. ❗ Opened issue [#89](https://github.com/hyprwm/hyprpaper/issues/89) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
+1. 🗣 Commented on [#88](https://github.com/hyprwm/hyprpaper/issues/88#issuecomment-1684864311) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
+2. 🗣 Commented on [#88](https://github.com/hyprwm/hyprpaper/issues/88#issuecomment-1684435858) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
+3. 🔒 Closed issue [#89](https://github.com/hyprwm/hyprpaper/issues/89) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
+4. 🗣 Commented on [#89](https://github.com/hyprwm/hyprpaper/issues/89#issuecomment-1684160183) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
+5. ❗ Opened issue [#3017](https://github.com/hyprwm/Hyprland/issues/3017) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
 
 ### Where to find me
