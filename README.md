@@ -54,6 +54,7 @@ Kotlin                 16 hrs 22 mins  █░░░░░░░░░░░░�
 
 ### :paperclip: My latests posts
 <!-- BLOG-POST-LIST:START -->
+- [DSM 7.2+ on Proxmox with arpl-i18n](https://dev.to/vinetos/dsm-72-on-proxmox-with-arpl-i18n-1g0n)
 <!-- BLOG-POST-LIST:END -->
 
 ### Where to find me
