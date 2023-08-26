@@ -52,6 +52,10 @@ Kotlin                 16 hrs 22 mins  █░░░░░░░░░░░░�
 5. ❗ Opened issue [#3017](https://github.com/hyprwm/Hyprland/issues/3017) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
 
+### :paperclip: My latests posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Where to find me
 <p>
   <a href="https://github.com/Vinetos" target="_blank">
