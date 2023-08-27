@@ -45,11 +45,11 @@ Kotlin                 16 hrs 22 mins  █░░░░░░░░░░░░�
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/hyprwm/hyprpaper/issues/88#issuecomment-1684864311) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
-2. 🗣 Commented on [#88](https://github.com/hyprwm/hyprpaper/issues/88#issuecomment-1684435858) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
-3. 🔒 Closed issue [#89](https://github.com/hyprwm/hyprpaper/issues/89) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
-4. 🗣 Commented on [#89](https://github.com/hyprwm/hyprpaper/issues/89#issuecomment-1684160183) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
-5. ❗ Opened issue [#3017](https://github.com/hyprwm/Hyprland/issues/3017) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+1. 🎉 Merged PR [#5](https://github.com/Vinetos/Vinetos/pull/5) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
+2. 💪 Opened PR [#5](https://github.com/Vinetos/Vinetos/pull/5) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
+3. 🗣 Commented on [#88](https://github.com/hyprwm/hyprpaper/issues/88#issuecomment-1684864311) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
+4. 🗣 Commented on [#88](https://github.com/hyprwm/hyprpaper/issues/88#issuecomment-1684435858) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
+5. 🔒 Closed issue [#89](https://github.com/hyprwm/hyprpaper/issues/89) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latests posts
