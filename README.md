@@ -33,11 +33,11 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 <!--START_SECTION:waka-->
 
 ```txt
-Java                   259 hrs 13 mins ██████████████▓░░░░░░░░░░   58.99 %
-XML                    27 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Python                 26 hrs 50 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-YAML                   21 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Kotlin                 16 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Java                   262 hrs 58 mins ██████████████▓░░░░░░░░░░   59.27 %
+XML                    27 hrs 50 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Python                 26 hrs 51 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+YAML                   21 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Kotlin                 16 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
