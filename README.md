@@ -45,11 +45,11 @@ YAML                   21 hrs 22 mins  █░░░░░░░░░░░░�
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Vinetos/Vinetos/pull/5) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
-2. 💪 Opened PR [#5](https://github.com/Vinetos/Vinetos/pull/5) in [Vinetos/Vinetos](https://github.com/Vinetos/Vinetos)
-3. 🗣 Commented on [#88](https://github.com/hyprwm/hyprpaper/issues/88#issuecomment-1684864311) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
-4. 🗣 Commented on [#88](https://github.com/hyprwm/hyprpaper/issues/88#issuecomment-1684435858) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
-5. 🔒 Closed issue [#89](https://github.com/hyprwm/hyprpaper/issues/89) in [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
+1. ❌ Closed PR [#50](https://github.com/Vinetos/Vinetos.fr/pull/50) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
+2. ❌ Closed PR [#48](https://github.com/Vinetos/Vinetos.fr/pull/48) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
+3. ❌ Closed PR [#139](https://github.com/Vinetos/Vinetos.fr/pull/139) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
+4. ❌ Closed PR [#138](https://github.com/Vinetos/Vinetos.fr/pull/138) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
+5. ❌ Closed PR [#137](https://github.com/Vinetos/Vinetos.fr/pull/137) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latests posts
