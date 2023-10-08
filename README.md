@@ -45,11 +45,11 @@ YAML                   21 hrs 42 mins  █░░░░░░░░░░░░�
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Vinetos/giraph-lab/pull/1) in [Vinetos/giraph-lab](https://github.com/Vinetos/giraph-lab)
-2. ❌ Closed PR [#50](https://github.com/Vinetos/Vinetos.fr/pull/50) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
-3. ❌ Closed PR [#48](https://github.com/Vinetos/Vinetos.fr/pull/48) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
-4. ❌ Closed PR [#139](https://github.com/Vinetos/Vinetos.fr/pull/139) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
-5. ❌ Closed PR [#138](https://github.com/Vinetos/Vinetos.fr/pull/138) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
+1. ❗ Opened issue [#2](https://github.com/Vinetos/giraph-lab/issues/2) in [Vinetos/giraph-lab](https://github.com/Vinetos/giraph-lab)
+2. 🎉 Merged PR [#1](https://github.com/Vinetos/giraph-lab/pull/1) in [Vinetos/giraph-lab](https://github.com/Vinetos/giraph-lab)
+3. 💪 Opened PR [#1](https://github.com/Vinetos/giraph-lab/pull/1) in [Vinetos/giraph-lab](https://github.com/Vinetos/giraph-lab)
+4. ❌ Closed PR [#50](https://github.com/Vinetos/Vinetos.fr/pull/50) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
+5. ❌ Closed PR [#48](https://github.com/Vinetos/Vinetos.fr/pull/48) in [Vinetos/Vinetos.fr](https://github.com/Vinetos/Vinetos.fr)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latests posts
