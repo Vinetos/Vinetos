@@ -45,11 +45,11 @@ YAML                   21 hrs 58 mins  ▓░░░░░░░░░░░░�
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Vinetos/dotnix/pull/2) in [Vinetos/dotnix](https://github.com/Vinetos/dotnix)
-2. 💪 Opened PR [#2](https://github.com/Vinetos/dotnix/pull/2) in [Vinetos/dotnix](https://github.com/Vinetos/dotnix)
-3. ❗ Opened issue [#2](https://github.com/Vinetos/giraph-lab/issues/2) in [Vinetos/giraph-lab](https://github.com/Vinetos/giraph-lab)
-4. 🎉 Merged PR [#1](https://github.com/Vinetos/giraph-lab/pull/1) in [Vinetos/giraph-lab](https://github.com/Vinetos/giraph-lab)
-5. 💪 Opened PR [#1](https://github.com/Vinetos/giraph-lab/pull/1) in [Vinetos/giraph-lab](https://github.com/Vinetos/giraph-lab)
+1. 🎉 Merged PR [#2](https://github.com/Vinetos/sudoku/pull/2) in [Vinetos/sudoku](https://github.com/Vinetos/sudoku)
+2. 🗣 Commented on [#2](https://github.com/Vinetos/sudoku/pull/2#issuecomment-1773232937) in [Vinetos/sudoku](https://github.com/Vinetos/sudoku)
+3. 💪 Opened PR [#2](https://github.com/Vinetos/sudoku/pull/2) in [Vinetos/sudoku](https://github.com/Vinetos/sudoku)
+4. 🎉 Merged PR [#3](https://github.com/Vinetos/dotnix/pull/3) in [Vinetos/dotnix](https://github.com/Vinetos/dotnix)
+5. 💪 Opened PR [#3](https://github.com/Vinetos/dotnix/pull/3) in [Vinetos/dotnix](https://github.com/Vinetos/dotnix)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latests posts
