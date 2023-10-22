@@ -27,20 +27,44 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
   <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
-![Vinetos's github stats](https://github-readme-stats.vercel.app/api?username=Vinetos&show_icons=true) 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Vinetos&include_all_commits=true&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=percentile&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Vinetos&include_all_commits=true&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=percentile"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vinetos&include_all_commits=true&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=percentile" />
+</picture>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Vinetos&layout=compact&langs_count=8&card_width=320&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Vinetos&layout=compact&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinetos&layout=compact&langs_count=8&card_width=320" />
+</picture>
+
+  
 ### :bar_chart: Where I spend my dev time  
-<!--START_SECTION:waka-->
 
-```txt
-Java                   272 hrs 6 mins  █████████▓░░░░░░░░░░░░░░░   38.67 %
-Other                  243 hrs 33 mins ████████▓░░░░░░░░░░░░░░░░   34.61 %
-XML                    29 hrs 8 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Python                 26 hrs 51 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-YAML                   21 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-```
-
-<!--END_SECTION:waka-->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=vinetos&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=vinetos&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinetos&layout=compact" />
+</picture>
 
 ### :zap: My Recent Activity
 
@@ -52,7 +76,7 @@ YAML                   21 hrs 58 mins  ▓░░░░░░░░░░░░�
 5. 💪 Opened PR [#3](https://github.com/Vinetos/dotnix/pull/3) in [Vinetos/dotnix](https://github.com/Vinetos/dotnix)
 <!--END_SECTION:activity-->
 
-### :paperclip: My latests posts
+### :paperclip: My latest posts
 <!-- BLOG-POST-LIST:START -->
 - [DSM 7.2+ on Proxmox with arpl-i18n](https://dev.to/vinetos/dsm-72-on-proxmox-with-arpl-i18n-1g0n)
 <!-- BLOG-POST-LIST:END -->
