@@ -56,14 +56,14 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=vinetos&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=vinetos&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinetos&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14" />
 </picture>
 
 ### :zap: My Recent Activity
