@@ -31,19 +31,20 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 
 <picture>
   <source
-    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api?username=Vinetos&include_all_commits=true&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=percentile&theme=dark"
+    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api?username=Vinetos&include_all_commits=true&rank_icon=percentile&theme=github_dark&show_icons=true&show=reviews,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api?username=Vinetos&include_all_commits=true&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=percentile"
+    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api?username=Vinetos&include_all_commits=true&rank_icon=percentile&show_icons=true&show=reviews,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api?username=Vinetos&include_all_commits=true&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=percentile" />
+  <img height=200 align="center" src="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api?username=Vinetos&include_all_commits=true&rank_icon=percentile&theme=darkshow_icons=true&show=reviews,prs_merged_percentage" />
 </picture>
+
 
 <picture>
   <source
-    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14&theme=dark&hide=Other"
+    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14&theme=github_dark&hide=Other"
     media="(prefers-color-scheme: dark)"
   />
   <source
