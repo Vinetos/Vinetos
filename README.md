@@ -26,44 +26,31 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-f7f1e3?style=flat-square&logo=rust&logoColor=black" />
   <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Vinetos&include_all_commits=true&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=percentile&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Vinetos&include_all_commits=true&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=percentile"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vinetos&include_all_commits=true&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=percentile" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Vinetos&layout=compact&langs_count=8&card_width=320&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Vinetos&layout=compact&langs_count=8&card_width=320"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinetos&layout=compact&langs_count=8&card_width=320" />
-</picture>
-
   
-### :bar_chart: Where I spend my dev time  
+### :bar_chart: Some stats about me
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14&theme=dark"
+    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api?username=Vinetos&include_all_commits=true&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=percentile&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14"
+    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api?username=Vinetos&include_all_commits=true&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=percentile"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14" />
+  <img height=200 align="center" src="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api?username=Vinetos&include_all_commits=true&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=percentile" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14&theme=dark&hide=Other"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14&hide=Other"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img  height=200 align="center" src="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14&hide=Other" />
 </picture>
 
 ### :zap: My Recent Activity
