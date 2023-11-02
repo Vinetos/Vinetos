@@ -44,14 +44,14 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 
 <picture>
   <source
-    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14&theme=github_dark&hide=Other"
+    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=10&hide=Other,XML,YAML,Properties,Nginx%20Configuration&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14&hide=Other"
+    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=10&hide=Other,XML,YAML,Properties,Nginx%20Configuration"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img  height=200 align="center" src="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=14&hide=Other" />
+  <img height=200 align="center" src="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=10&hide=Other,XML,YAML,Properties,Nginx%20Configuration" />
 </picture>
 
 ### :zap: My Recent Activity
