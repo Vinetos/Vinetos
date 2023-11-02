@@ -44,7 +44,7 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 
 <picture>
   <source
-    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&langs_count=10&hide=Other,XML,YAML,Properties,Nginx%20Configuration&theme=github_dark"
+    srcset="https://github-readme-stats-e4pgvv54m-vinetos-projects.vercel.app/api/wakatime?username=vinetos&layout=compact&theme=github_dark&langs_count=10&hide=Other,XML,YAML,Properties,Nginx%20Configuration"
     media="(prefers-color-scheme: dark)"
   />
   <source
