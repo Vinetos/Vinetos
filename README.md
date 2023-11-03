@@ -57,11 +57,11 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#181145](https://github.com/NixOS/nixpkgs/pull/181145#issuecomment-1783804850) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🎉 Merged PR [#2](https://github.com/Vinetos/sudoku/pull/2) in [Vinetos/sudoku](https://github.com/Vinetos/sudoku)
-3. 🗣 Commented on [#2](https://github.com/Vinetos/sudoku/pull/2#issuecomment-1773232937) in [Vinetos/sudoku](https://github.com/Vinetos/sudoku)
-4. 💪 Opened PR [#2](https://github.com/Vinetos/sudoku/pull/2) in [Vinetos/sudoku](https://github.com/Vinetos/sudoku)
-5. 🎉 Merged PR [#3](https://github.com/Vinetos/dotnix/pull/3) in [Vinetos/dotnix](https://github.com/Vinetos/dotnix)
+1. 💪 Opened PR [#265073](https://github.com/NixOS/nixpkgs/pull/265073) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#181145](https://github.com/NixOS/nixpkgs/pull/181145#issuecomment-1783804850) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🎉 Merged PR [#2](https://github.com/Vinetos/sudoku/pull/2) in [Vinetos/sudoku](https://github.com/Vinetos/sudoku)
+4. 🗣 Commented on [#2](https://github.com/Vinetos/sudoku/pull/2#issuecomment-1773232937) in [Vinetos/sudoku](https://github.com/Vinetos/sudoku)
+5. 💪 Opened PR [#2](https://github.com/Vinetos/sudoku/pull/2) in [Vinetos/sudoku](https://github.com/Vinetos/sudoku)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
