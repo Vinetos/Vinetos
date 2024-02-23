@@ -57,11 +57,11 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#868](https://github.com/NixOS/nixos-hardware/pull/868) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
-2. 🗣 Commented on [#289983](https://github.com/NixOS/nixpkgs/pull/289983#issuecomment-1953679674) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#289983](https://github.com/NixOS/nixpkgs/pull/289983#issuecomment-1953036132) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#289983](https://github.com/NixOS/nixpkgs/pull/289983#issuecomment-1952902862) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 💪 Opened PR [#289983](https://github.com/NixOS/nixpkgs/pull/289983) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#868](https://github.com/NixOS/nixos-hardware/pull/868#issuecomment-1959389199) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
+2. 💪 Opened PR [#868](https://github.com/NixOS/nixos-hardware/pull/868) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
+3. 🗣 Commented on [#289983](https://github.com/NixOS/nixpkgs/pull/289983#issuecomment-1953679674) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#289983](https://github.com/NixOS/nixpkgs/pull/289983#issuecomment-1953036132) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#289983](https://github.com/NixOS/nixpkgs/pull/289983#issuecomment-1952902862) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
