@@ -57,11 +57,11 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#298149](https://github.com/NixOS/nixpkgs/pull/298149#issuecomment-2015885908) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#298149](https://github.com/NixOS/nixpkgs/pull/298149) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🎉 Merged PR [#2](https://github.com/Vinetos/Tranquille/pull/2) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-4. 💪 Opened PR [#2](https://github.com/Vinetos/Tranquille/pull/2) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-5. 🔒 Closed issue [#1](https://github.com/Vinetos/Tranquille/issues/1) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+1. 🗣 Commented on [#298149](https://github.com/NixOS/nixpkgs/pull/298149#issuecomment-2016605571) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#298149](https://github.com/NixOS/nixpkgs/pull/298149#issuecomment-2016585730) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗ Opened issue [#6](https://github.com/Vinetos/Tranquille/issues/6) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+4. 🎉 Merged PR [#5](https://github.com/Vinetos/Tranquille/pull/5) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+5. 💪 Opened PR [#5](https://github.com/Vinetos/Tranquille/pull/5) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
