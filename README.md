@@ -57,11 +57,11 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/Vinetos/Tranquille/issues/18#issuecomment-2066247964) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-2. 🎉 Merged PR [#17](https://github.com/Vinetos/Tranquille/pull/17) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-3. 🗣 Commented on [#15](https://github.com/Vinetos/Tranquille/issues/15#issuecomment-2055934703) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-4. 🚀 Published release [0.0.1](https://github.com/Vinetos/Tranquille/releases/tag/0.0.1) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-5. 💪 Opened PR [#16](https://github.com/Vinetos/Tranquille/pull/16) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+1. 💪 Opened PR [#20](https://github.com/Vinetos/Tranquille/pull/20) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+2. 🗣 Commented on [#18](https://github.com/Vinetos/Tranquille/issues/18#issuecomment-2066247964) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+3. 🎉 Merged PR [#17](https://github.com/Vinetos/Tranquille/pull/17) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+4. 🗣 Commented on [#15](https://github.com/Vinetos/Tranquille/issues/15#issuecomment-2055934703) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+5. 🚀 Published release [0.0.1](https://github.com/Vinetos/Tranquille/releases/tag/0.0.1) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
