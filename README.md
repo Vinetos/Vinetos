@@ -57,11 +57,11 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/puppetlabs/puppetlabs-rsync/pull/161#issuecomment-2085674818) in [puppetlabs/puppetlabs-rsync](https://github.com/puppetlabs/puppetlabs-rsync)
-2. 🗣 Commented on [#6](https://github.com/Vinetos/Tranquille/issues/6#issuecomment-2085522594) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-3. 💪 Opened PR [#20](https://github.com/Vinetos/Tranquille/pull/20) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-4. 🗣 Commented on [#18](https://github.com/Vinetos/Tranquille/issues/18#issuecomment-2066247964) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-5. 🎉 Merged PR [#17](https://github.com/Vinetos/Tranquille/pull/17) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+1. 🗣 Commented on [#143](https://github.com/NixOS/foundation/issues/143#issuecomment-2094258522) in [NixOS/foundation](https://github.com/NixOS/foundation)
+2. 🗣 Commented on [#161](https://github.com/puppetlabs/puppetlabs-rsync/pull/161#issuecomment-2085674818) in [puppetlabs/puppetlabs-rsync](https://github.com/puppetlabs/puppetlabs-rsync)
+3. 🗣 Commented on [#6](https://github.com/Vinetos/Tranquille/issues/6#issuecomment-2085522594) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+4. 💪 Opened PR [#20](https://github.com/Vinetos/Tranquille/pull/20) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+5. 🗣 Commented on [#18](https://github.com/Vinetos/Tranquille/issues/18#issuecomment-2066247964) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
