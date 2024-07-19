@@ -57,11 +57,11 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#326279](https://github.com/NixOS/nixpkgs/pull/326279#issuecomment-2222755769) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#322593](https://github.com/NixOS/nixpkgs/pull/322593#issuecomment-2222608537) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 💪 Opened PR [#326279](https://github.com/NixOS/nixpkgs/pull/326279) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#322593](https://github.com/NixOS/nixpkgs/pull/322593#issuecomment-2221169399) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#324763](https://github.com/NixOS/nixpkgs/pull/324763#issuecomment-2210484553) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#326279](https://github.com/NixOS/nixpkgs/pull/326279#issuecomment-2236622832) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ❌ Closed PR [#326279](https://github.com/NixOS/nixpkgs/pull/326279) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#326279](https://github.com/NixOS/nixpkgs/pull/326279#issuecomment-2222755769) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#322593](https://github.com/NixOS/nixpkgs/pull/322593#issuecomment-2222608537) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 💪 Opened PR [#326279](https://github.com/NixOS/nixpkgs/pull/326279) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
