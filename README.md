@@ -66,6 +66,7 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 
 ### :paperclip: My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Enabling IPv6 on FreeBSD with DHCPv6 in Stateful Mode](https://dev.to/vinetos/enabling-ipv6-on-freebsd-with-dhcpv6-in-stateful-mode-3142)
 - [DSM 7.2+ on Proxmox with arpl-i18n](https://dev.to/vinetos/dsm-72-on-proxmox-with-arpl-i18n-1g0n)
 <!-- BLOG-POST-LIST:END -->
 
