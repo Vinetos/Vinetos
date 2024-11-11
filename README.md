@@ -57,11 +57,11 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#91](https://github.com/srid/nixos-unified/issues/91) in [srid/nixos-unified](https://github.com/srid/nixos-unified)
-2. 🗣 Commented on [#350764](https://github.com/NixOS/nixpkgs/pull/350764#issuecomment-2434885307) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❗ Opened issue [#6](https://github.com/zen-browser/surfer/issues/6) in [zen-browser/surfer](https://github.com/zen-browser/surfer)
-4. 🗣 Commented on [#347222](https://github.com/NixOS/nixpkgs/pull/347222#issuecomment-2403277392) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#347222](https://github.com/NixOS/nixpkgs/pull/347222#issuecomment-2403264212) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#16](https://github.com/Vinetos/Tranquille/pull/16#issuecomment-2466644238) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+2. 🎉 Merged PR [#23](https://github.com/Vinetos/Tranquille/pull/23) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+3. ❗ Opened issue [#91](https://github.com/srid/nixos-unified/issues/91) in [srid/nixos-unified](https://github.com/srid/nixos-unified)
+4. 🗣 Commented on [#350764](https://github.com/NixOS/nixpkgs/pull/350764#issuecomment-2434885307) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ❗ Opened issue [#6](https://github.com/zen-browser/surfer/issues/6) in [zen-browser/surfer](https://github.com/zen-browser/surfer)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
