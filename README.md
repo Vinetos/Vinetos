@@ -57,11 +57,11 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#166](https://github.com/outfoxxed/hy3/pull/166) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
-2. 🗣 Commented on [#363026](https://github.com/NixOS/nixpkgs/pull/363026#issuecomment-2525554962) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#16](https://github.com/Vinetos/Tranquille/pull/16#issuecomment-2467721567) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-4. 🗣 Commented on [#16](https://github.com/Vinetos/Tranquille/pull/16#issuecomment-2466644238) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-5. 🎉 Merged PR [#23](https://github.com/Vinetos/Tranquille/pull/23) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+1. 🗣 Commented on [#375575](https://github.com/NixOS/nixpkgs/pull/375575#issuecomment-2605445721) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🎉 Merged PR [#24](https://github.com/Vinetos/Tranquille/pull/24) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+3. 💪 Opened PR [#166](https://github.com/outfoxxed/hy3/pull/166) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
+4. 🗣 Commented on [#363026](https://github.com/NixOS/nixpkgs/pull/363026#issuecomment-2525554962) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#16](https://github.com/Vinetos/Tranquille/pull/16#issuecomment-2467721567) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
