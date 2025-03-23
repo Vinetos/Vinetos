@@ -57,10 +57,10 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#390730](https://github.com/NixOS/nixpkgs/issues/390730#issuecomment-2730499989) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#386316](https://github.com/NixOS/nixpkgs/pull/386316#issuecomment-2692898342) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❗ Opened issue [#1](https://github.com/ckgxrg-salt/LxWEngD/issues/1) in [ckgxrg-salt/LxWEngD](https://github.com/ckgxrg-salt/LxWEngD)
-4. 🎉 Merged PR [#28](https://github.com/Vinetos/Tranquille/pull/28) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+1. 🗣 Commented on [#390018](https://github.com/NixOS/nixpkgs/pull/390018#issuecomment-2745111143) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#390730](https://github.com/NixOS/nixpkgs/issues/390730#issuecomment-2730499989) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#386316](https://github.com/NixOS/nixpkgs/pull/386316#issuecomment-2692898342) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ❗ Opened issue [#1](https://github.com/ckgxrg-salt/LxWEngD/issues/1) in [ckgxrg-salt/LxWEngD](https://github.com/ckgxrg-salt/LxWEngD)
 5. 🗣 Commented on [#6](https://github.com/Vinetos/Tranquille/issues/6#issuecomment-2664903762) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
 <!--END_SECTION:activity-->
 
