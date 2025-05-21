@@ -57,10 +57,10 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#406354](https://github.com/NixOS/nixpkgs/pull/406354#issuecomment-2886793836) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#398890](https://github.com/NixOS/nixpkgs/pull/398890#issuecomment-2830049774) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#390730](https://github.com/NixOS/nixpkgs/issues/390730#issuecomment-2730499989) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. ❗ Opened issue [#1](https://github.com/ckgxrg-salt/LxWEngD/issues/1) in [ckgxrg-salt/LxWEngD](https://github.com/ckgxrg-salt/LxWEngD)
+1. 💪 Opened PR [#449](https://github.com/openstack-exporter/openstack-exporter/pull/449) in [openstack-exporter/openstack-exporter](https://github.com/openstack-exporter/openstack-exporter)
+2. ❗ Opened issue [#448](https://github.com/openstack-exporter/openstack-exporter/issues/448) in [openstack-exporter/openstack-exporter](https://github.com/openstack-exporter/openstack-exporter)
+3. 🗣 Commented on [#406354](https://github.com/NixOS/nixpkgs/pull/406354#issuecomment-2886793836) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#398890](https://github.com/NixOS/nixpkgs/pull/398890#issuecomment-2830049774) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 5. 🗣 Commented on [#6](https://github.com/Vinetos/Tranquille/issues/6#issuecomment-2664903762) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
 <!--END_SECTION:activity-->
 
