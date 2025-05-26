@@ -57,11 +57,11 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/Vinetos/Tranquille/pull/30) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-2. 🎉 Merged PR [#27](https://github.com/Vinetos/Tranquille/pull/27) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-3. 🎉 Merged PR [#26](https://github.com/Vinetos/Tranquille/pull/26) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-4. 🗣 Commented on [#449](https://github.com/openstack-exporter/openstack-exporter/pull/449#issuecomment-2896686596) in [openstack-exporter/openstack-exporter](https://github.com/openstack-exporter/openstack-exporter)
-5. 💪 Opened PR [#449](https://github.com/openstack-exporter/openstack-exporter/pull/449) in [openstack-exporter/openstack-exporter](https://github.com/openstack-exporter/openstack-exporter)
+1. 🗣 Commented on [#409969](https://github.com/NixOS/nixpkgs/pull/409969#issuecomment-2907919345) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#30](https://github.com/Vinetos/Tranquille/pull/30) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+3. 🎉 Merged PR [#27](https://github.com/Vinetos/Tranquille/pull/27) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+4. 🎉 Merged PR [#26](https://github.com/Vinetos/Tranquille/pull/26) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
+5. 🗣 Commented on [#449](https://github.com/openstack-exporter/openstack-exporter/pull/449#issuecomment-2896686596) in [openstack-exporter/openstack-exporter](https://github.com/openstack-exporter/openstack-exporter)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
