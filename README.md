@@ -57,8 +57,8 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Vinetos/Tranquille/pull/31) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
-2. 🗣 Commented on [#409969](https://github.com/NixOS/nixpkgs/pull/409969#issuecomment-2907919345) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#419263](https://github.com/NixOS/nixpkgs/pull/419263#issuecomment-3009194145) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🎉 Merged PR [#31](https://github.com/Vinetos/Tranquille/pull/31) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
 3. 💪 Opened PR [#30](https://github.com/Vinetos/Tranquille/pull/30) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
 4. 🎉 Merged PR [#27](https://github.com/Vinetos/Tranquille/pull/27) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
 5. 🎉 Merged PR [#26](https://github.com/Vinetos/Tranquille/pull/26) in [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille)
