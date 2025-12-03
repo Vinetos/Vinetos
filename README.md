@@ -59,9 +59,9 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#466847](https://github.com/NixOS/nixpkgs/pull/466847#issuecomment-3597074050) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 2. 💪 Opened PR [#466847](undefined) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#1](https://github.com/Vinetos/infrastructure/issues/1#issuecomment-3591087111) in [Vinetos/infrastructure](https://github.com/Vinetos/infrastructure)
-4. 🗣 Commented on [#465965](https://github.com/NixOS/nixpkgs/pull/465965#issuecomment-3589725678) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 💪 Opened PR [#465965](undefined) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❌ Merged PR [#465965](undefined) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#1](https://github.com/Vinetos/infrastructure/issues/1#issuecomment-3591087111) in [Vinetos/infrastructure](https://github.com/Vinetos/infrastructure)
+5. 🗣 Commented on [#465965](https://github.com/NixOS/nixpkgs/pull/465965#issuecomment-3589725678) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
