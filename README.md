@@ -57,11 +57,11 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#522035](https://github.com/NixOS/nixpkgs/pull/522035#issuecomment-4547057650) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#522035](https://github.com/NixOS/nixpkgs/pull/522035#issuecomment-4546984049) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❌ Closed PR [#510143](https://github.com/NixOS/nixpkgs/pull/510143) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#510143](https://github.com/NixOS/nixpkgs/pull/510143#issuecomment-4491372992) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 💪 Opened PR [#522035](https://github.com/NixOS/nixpkgs/pull/522035) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🎉 Merged PR [#522035](https://github.com/NixOS/nixpkgs/pull/522035) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#2499](https://github.com/AvengeMedia/DankMaterialShell/issues/2499#issuecomment-4554574262) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+3. 🗣 Commented on [#522035](https://github.com/NixOS/nixpkgs/pull/522035#issuecomment-4547057650) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#522035](https://github.com/NixOS/nixpkgs/pull/522035#issuecomment-4546984049) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ❌ Closed PR [#510143](https://github.com/NixOS/nixpkgs/pull/510143) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
