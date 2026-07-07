@@ -57,10 +57,10 @@ I'm Valentin, an Enthusiastic developer from <img src="https://cdn-icons-png.fla
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#531878](https://github.com/NixOS/nixpkgs/pull/531878#issuecomment-4801611224) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#6](https://github.com/Infomaniak/addon-backup/issues/6#issuecomment-4637971874) in [Infomaniak/addon-backup](https://github.com/Infomaniak/addon-backup)
-3. 🎉 Merged PR [#522035](https://github.com/NixOS/nixpkgs/pull/522035) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#2499](https://github.com/AvengeMedia/DankMaterialShell/issues/2499#issuecomment-4554574262) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+1. 🔒 Closed issue [#517206](https://github.com/NixOS/nixpkgs/issues/517206) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#529651](https://github.com/NixOS/nixpkgs/pull/529651#issuecomment-4895841017) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#537961](https://github.com/NixOS/nixpkgs/pull/537961#issuecomment-4895837007) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#531878](https://github.com/NixOS/nixpkgs/pull/531878#issuecomment-4801611224) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 5. 🗣 Commented on [#522035](https://github.com/NixOS/nixpkgs/pull/522035#issuecomment-4546984049) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
