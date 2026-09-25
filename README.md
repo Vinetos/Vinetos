@@ -55,11 +55,11 @@
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3375](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/issues/3375#issuecomment-5796980220) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
-2. 💪 Opened PR [#3378](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3378) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
-3. ❗ Opened issue [#3375](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/issues/3375) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
-4. 🗣 Commented on [#557683](https://github.com/NixOS/nixpkgs/pull/557683#issuecomment-5482202782) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#546717](https://github.com/NixOS/nixpkgs/pull/546717#issuecomment-5105917415) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. ❌ Closed PR [#3378](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3378) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+2. 🗣 Commented on [#3378](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3378#issuecomment-5815111398) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+3. 💪 Opened PR [#3379](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3379) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+4. 🗣 Commented on [#3375](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/issues/3375#issuecomment-5796980220) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+5. 💪 Opened PR [#3378](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3378) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
