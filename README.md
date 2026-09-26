@@ -55,11 +55,11 @@
 ### :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3378](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3378) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
-2. 🗣 Commented on [#3378](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3378#issuecomment-5815111398) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
-3. 💪 Opened PR [#3379](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3379) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
-4. 🗣 Commented on [#3375](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/issues/3375#issuecomment-5796980220) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
-5. 💪 Opened PR [#3378](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3378) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+1. 🎉 Merged PR [#3379](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3379) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+2. 💪 Opened PR [#3383](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3383) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+3. ❌ Closed PR [#3378](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3378) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+4. 🗣 Commented on [#3378](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3378#issuecomment-5815111398) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+5. 💪 Opened PR [#3379](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/3379) in [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
 <!--END_SECTION:activity-->
 
 ### :paperclip: My latest posts
